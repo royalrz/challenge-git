@@ -1,0 +1,5 @@
+.nyc_output
+.env.example
+db/
+coverage
+/node_modules
